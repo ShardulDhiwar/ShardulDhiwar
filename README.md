@@ -79,14 +79,6 @@
 - 💻 Built **real-world apps** solving restaurant and chat-based use cases  
 - 🌍 Contributed to **open-source projects** and developer communities  
 
----
-
-### 💬 Quote of the Day  
-
-> “Talk is cheap. Show me the code.” — *Linus Torvalds*  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://camo.githubusercontent.com/b4c78fba067ddfe207ae134dbb2647bec27059e027968bad908ada362d6500a6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d65676726636f6c6f723d6175746f266865696768743d323130"/>
 </p>
