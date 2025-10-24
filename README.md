@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shardul S Dhiwar</h1>
-<h3 align="center">🚀 Passionate Software Developer from India</h3>
+<h3 align="center">🚀 Passionate Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -59,13 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharduldhiwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 🚀 Quote of the Day  
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
-
----
 
 ⭐ **Thanks for visiting!** Don’t forget to star repositories you like 😄
 
