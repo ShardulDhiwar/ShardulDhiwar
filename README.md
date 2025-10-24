@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shardul+S+Dhiwar;A+Passionate+Web+Developer;From+India+🇮🇳;Welcome+to+my+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shardul+S+Dhiwar;A+Passionate+Web+Developer;From+India;Welcome+to+my+GitHub!"/>
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
