@@ -77,7 +77,7 @@
 
 - 🥇 Completed multiple **React & MERN projects**  
 - 💻 Built **real-world apps** solving restaurant and chat-based use cases  
-- 🌍 Contributed to **open-source projects** and developer communities  
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=90&section=footer">
