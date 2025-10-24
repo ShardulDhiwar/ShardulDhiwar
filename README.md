@@ -21,13 +21,13 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/sharduldhiwar" target="_blank">
+  <a href="https://linkedin.com/in/shardul-dhiwar-0236062ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sharduldhiwar" target="_blank">
+  <a href="https://www.instagram.com/shardul_dhiwar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:sharduldhiwar@gmail.com">
+  <a href="mailto:sujaldhiwar007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -37,7 +37,7 @@
 ### 🧠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite,nodejs,express,mongodb,java,python,git,github,vscode,figma" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 
 🌐 [**OrderXpress**](https://github.com/sharduldhiwar/OrderXpress) — Restaurant QR Menu System built with React Native + Node.js  
 💬 [**Chat-Me**](https://chat-me-omega.vercel.app/) — Real-time chat app using MERN + Socket.io  
-⚙️ [**Menu OCR Parser**](https://github.com/sharduldhiwar/Menu-OCR-Parser) — Automating OCR → JSON conversion for restaurant menus  
-
+⚙️ [**Fix-The_UI**](https://github.com/ShardulDhiwar/FixTheUI) — A UI improvement / redesign project aimed at refining user interfaces by upgrading styling, layout, and responsiveness in real-time
+🎮 [**Reacts_Game-Hub**](https://github.com/ShardulDhiwar/ReactsGameHub) — ReactsGameHub is a mini game hub built with React.js that allows users to play fun classic games
 ---
 
 ### ✨ My Developer Vibe  
