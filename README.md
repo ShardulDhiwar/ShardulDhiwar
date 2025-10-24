@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shardul+S+Dhiwar;A+Passionate+Web+Developer;From+India+🇮🇳;Welcome+to+my+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shardul+S+Dhiwar;A+Passionate+Web+Developer;🚀;Welcome+to+my+GitHub!"/>
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,12 +9,12 @@
 
 ### 🌟 About Me  
 
-💡 **Innovative Developer** passionate about crafting smooth, interactive, and scalable web apps.  
-🌱 Currently diving deep into **React.js**, **Node.js**, and **MERN Stack**.  
-⚡ Exploring the world of **AI + Web** integration to build smarter experiences.  
-💬 Ask me about **Frontend Development, React Hooks, or JavaScript magic 🪄**  
-🎯 **Goal 2025:** Build products that *simplify lives* & *inspire learning*.  
-🎵 Fun fact: I can debug better with **lofi beats** in the background 🎧  
+💡 **Innovative Developer** who loves building **beautiful, functional, and user-friendly** interfaces.  
+🚀 Currently working on **[FixTheUI](https://github.com/ShardulDhiwar/FixTheUI)** — a platform where developers can **fix, enhance, and learn UI design** through real challenges.  
+🌱 Exploring **MERN Stack, UI/UX Design Systems, and Frontend Optimization.**  
+💬 Ask me about **React, CSS magic, and turning ideas into reality**.  
+🎯 **Goal:** To make UI learning interactive & community-driven through FixTheUI.  
+🎵 Fun fact: I sketch better UI ideas at midnight 🌙  
 
 ---
 
@@ -37,7 +37,26 @@
 ### 🧠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,python" />
+</p>
+
+---
+
+### 🧩 Featured Project — [FixTheUI 💻](https://github.com/ShardulDhiwar/FixTheUI)
+
+> 🛠️ **FixTheUI** is a community-driven platform that helps developers learn **UI/UX by fixing real design problems.**
+
+#### 🔹 Key Highlights:
+- 💡 Uploads real UI issues for developers to **improve and redesign**
+- 🎨 Encourages **creative UI/UX thinking**
+- 🧠 Great for **frontend learners & designers** to practice real-world UI fixes
+- ⚛️ Built using **React + Tailwind CSS**
+- 🔐 Backend integration planned with **Node.js & MongoDB**
+
+<p align="center">
+  <a href="https://github.com/ShardulDhiwar/FixTheUI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShardulDhiwar&repo=FixTheUI&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -55,11 +74,12 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 🏆 Achievements  
 
-🌐 [**OrderXpress**](https://github.com/sharduldhiwar/OrderXpress) — Restaurant QR Menu System built with React Native + Node.js  
-💬 [**Chat-Me**](https://chat-me-omega.vercel.app/) — Real-time chat app using MERN + Socket.io  
-⚙️ [**Menu OCR Parser**](https://github.com/sharduldhiwar/Menu-OCR-Parser) — Automating OCR → JSON conversion for restaurant menus  
+- 🧩 Built **FixTheUI** — a unique developer learning platform  
+- ⚡ Created multiple **MERN projects** solving real-world problems  
+- 🧠 Self-taught developer with a passion for **UI/UX craftsmanship**  
+- 🌍 Actively contributing to **frontend communities**  
 
 ---
 
@@ -69,21 +89,13 @@
   <img src="https://i.pinimg.com/originals/2b/7d/83/2b7d83b9ebf2f54a3c9c46e36fc8c0f0.gif" width="300"/>
 </p>
 
-> 💬 *“Code is like art — it’s meant to be clean, expressive, and inspiring.”*  
-
----
-
-### 🏆 Achievements  
-
-- 🥇 Completed multiple **React & MERN projects**  
-- 💻 Built **real-world apps** solving restaurant and chat-based use cases  
-- 🌍 Contributed to **open-source projects** and developer communities  
+> 💬 *“Design is not just what it looks like and feels like. Design is how it works.”* — Steve Jobs  
 
 ---
 
 ### 💬 Quote of the Day  
 
-> “Talk is cheap. Show me the code.” — *Linus Torvalds*  
+> “First, solve the problem. Then, write the code.” — *John Johnson*  
 
 ---
 
