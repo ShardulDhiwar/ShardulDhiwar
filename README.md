@@ -59,8 +59,9 @@
 
 🌐 [**OrderXpress**](https://github.com/sharduldhiwar/OrderXpress) — Restaurant QR Menu System built with React Native + Node.js  
 💬 [**Chat-Me**](https://chat-me-omega.vercel.app/) — Real-time chat app using MERN + Socket.io  
-⚙️ [**Fix-The_UI**](https://github.com/ShardulDhiwar/FixTheUI) — A UI improvement / redesign project aimed at refining user interfaces
-🎮 [**Reacts_Game-Hub**](https://github.com/ShardulDhiwar/ReactsGameHub) — ReactsGameHub is a mini game hub built with React.js that allows users to play fun classic games
+⚙️ [**Fix-The_UI**](https://github.com/ShardulDhiwar/FixTheUI) — A UI improvement / redesign project aimed at refining user interfaces  
+🎮 [**Reacts_Game-Hub**](https://github.com/ShardulDhiwar/ReactsGameHub) — A mini game hub built with React.js that lets users play classic fun games  
+
 ---
 
 ### ✨ My Developer Vibe  
