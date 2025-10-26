@@ -3,7 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shardul+S+Dhiwar;A+Passionate+Web+Developer;From+India;Welcome+to+my+GitHub!"/>
 </h1>
 
-<img align="right" alt="Coding" width="400" style="border-radius: 15px;" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif">
+<p align="right">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif" 
+       alt="Coding" width="400" 
+       style="border-radius:50%; overflow:hidden;">
+</p>
 
 
 
