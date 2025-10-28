@@ -50,11 +50,12 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharduldhiwar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharduldhiwar&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharduldhiwar&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharduldhiwar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharduldhiwar&theme=tokyonight" />
 </p>
 
 ---
