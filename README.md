@@ -78,11 +78,6 @@
 > 💬 *“Code is like art — it’s meant to be clean, expressive, and inspiring.”*  
 
 ---
-
-### 🏆 Achievements  
-
-- 🥇 Completed multiple **React & MERN projects**  
-- 💻 Built **real-world apps** solving restaurant and chat-based use cases  
  
 
 <p align="center">
