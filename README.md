@@ -92,7 +92,7 @@
       <img src="https://img.shields.io/badge/UI_UX-ff70a6?style=for-the-badge&logoColor=black" />
       <p><b>⚙️ Fix-The-UI</b><br/><code>UX Design</code> • <code>React</code></p>
       <a href="https://github.com/ShardulDhiwar/FixTheUI"><img src="https://img.shields.io/badge/Repo-grey?style=flat-square&logo=github" /></a>
-      <a href="https://fixtheui.vercel.app/"><img src="https://img.shields.io/badge/Live-ff70a6?style=flat-square&logo=chrome&logoColor=black" /></a>
+      <a href="https://fix-the-ui.vercel.app/"><img src="https://img.shields.io/badge/Live-ff70a6?style=flat-square&logo=chrome&logoColor=black" /></a>
       <br/><br/>
     </td>
     <td width="33%" bgcolor="#0d1117" align="center">
