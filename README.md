@@ -21,7 +21,7 @@
       🚀 **Mission:** Building digital products that solve real-world problems.<br/>
       ⚡ **Current Focus:** Deep diving into Advanced React patterns and MERN architecture.<br/>
       🤖 **Interests:** Exploring the intersection of AI and Web development.<br/>
-      🎧 **Vibe:** Most productive when coding to <b>lofi beats</b>.
+      🎧 **Vibe:** Most productive when coding to <b>Retro Music</b>.
     </td>
     <td width="35%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bm56bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
